@@ -1,4 +1,5 @@
-```
+---
+```md
 # Customer Churn Prediction
 
 This project focuses on predicting whether a customer will leave (churn) a telecom service based on historical customer data.  
@@ -17,7 +18,6 @@ The objective of this project is to:
 
 ## 📂 Dataset
 - **Dataset Name:** Telco Customer Churn
-- **Link:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - **File:** `churn.csv`
 - **Target Variable:** `Churn` (Yes / No)
 - **Features Include:**
@@ -79,3 +79,81 @@ Customer-Churn-Prediction/
 ├── README.md
 ├── requirements.txt
 └── images/
+
+```
+
+---
+
+## 🚀 How to Run the Project
+1. Clone the repository
+2. Install dependencies using:
+```
+
+pip install -r requirements.txt
+
+```
+3. Open the Jupyter Notebook:
+```
+
+Customer_Churn_Prediction.ipynb
+
+```
+4. Run all cells to train and evaluate the model
+
+---
+
+## 📌 Conclusion
+This project demonstrates how machine learning models can be effectively used to predict customer churn and support data-driven business decisions.
+
+```
+
+---
+
+# 📦 requirements.txt
+
+```txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+```
+
+✔ Simple
+✔ Correct
+✔ No unnecessary packages
+
+---
+
+# 📸 What to Put in `images/` Folder (Optional but Good)
+
+You can add:
+
+* Dataset preview (`df.head()`)
+* Confusion matrix screenshot
+* Model accuracy output
+* Sample churn prediction output
+
+---
+
+# ✅ Internship-Ready Checklist
+
+✔ Two ML models used
+✔ Proper dataset explanation
+✔ Clean repo structure
+✔ README explains logic clearly
+✔ requirements.txt included
+
+This project is **100% acceptable** for Codec Technologies submission.
+
+---
+
+If you want next:
+
+* **LinkedIn post content**
+* **Email format for submission**
+* **Viva questions & answers**
+* **Feature importance explanation**
+
+Just say the word 👍
