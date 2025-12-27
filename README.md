@@ -1,5 +1,3 @@
----
-```md
 # Customer Churn Prediction
 
 This project focuses on predicting whether a customer will leave (churn) a telecom service based on historical customer data.  
