@@ -16,7 +16,7 @@ The objective of this project is to:
 
 ## 📂 Dataset
 - **Dataset Name:** Telco Customer Churn
-- **Link:**https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+-   Link:https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - **File:** `churn.csv`
 - **Target Variable:** `Churn` (Yes / No)
 - **Features Include:**
