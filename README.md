@@ -16,6 +16,7 @@ The objective of this project is to:
 
 ## 📂 Dataset
 - **Dataset Name:** Telco Customer Churn
+- **Link:**https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - **File:** `churn.csv`
 - **Target Variable:** `Churn` (Yes / No)
 - **Features Include:**
@@ -72,11 +73,12 @@ The trained model can predict churn for individual customers from the test datas
 
 Customer-Churn-Prediction/
 │
+├── Images/
+├── .gitattributes
+├── Churn.csv
 ├── Customer_Churn_Prediction.ipynb
-├── churn.csv
 ├── README.md
-├── requirements.txt
-└── images/
+└── Requirements.txt
 
 ```
 
