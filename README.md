@@ -102,7 +102,3 @@ Customer_Churn_Prediction.ipynb
 
 ## 📌 Conclusion
 This project demonstrates how machine learning models can be effectively used to predict customer churn and support data-driven business decisions.
-
-```
-
----
