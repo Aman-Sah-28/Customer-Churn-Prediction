@@ -47,7 +47,7 @@ Models were evaluated using:
 - Confusion Matrix
 - Classification Report
 
-Random Forest achieved better performance compared to Logistic Regression.
+Logistic Regression achieved better performance compared to Random Forest.
 
 ---
 
